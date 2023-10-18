@@ -4,4 +4,4 @@ With the objective of reproducibility and transparency, this repository makes av
 
 You can consult:
 * Dataset [`data.xlsx`](https://github.com/researcherforlife/grit/blob/main/data.xlsx)
-* [`R code for analysis`](https://github.com/researcherforlife/grit/blob/main/Factor%20Analysis%20Gritt.R)
+* [`R code` for analysis](https://github.com/researcherforlife/grit/blob/main/Factor%20Analysis%20Gritt.R)
