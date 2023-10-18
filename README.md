@@ -3,5 +3,5 @@
 With the objective of reproducibility and transparency, this repository makes available the data and analysis procedures used in the paper.
 
 You can consult:
-* Dataset `[data.xlsx](https://github.com/researcherforlife/grit/blob/main/data.xlsx)`
+* Dataset [`data.xlsx`](https://github.com/researcherforlife/grit/blob/main/data.xlsx)
 * [R code for analysis]()
